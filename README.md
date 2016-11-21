@@ -1,6 +1,6 @@
 # Gallatin County parcel analysis
 
-Analysis of GIS data for Gallatin County, Montana available through the state cadastral system, looking at property ownership and value patterns. Portions of this analysis formed the basis of a major feature package published by the Bozeman Daily Chronicle on Nov. 8, 2015.
+Analysis of GIS data for Gallatin County, Montana available through the state cadastral system, looking at property ownership and value patterns. Portions of this analysis formed the basis of a major feature package [published](http://www.bozemandailychronicle.com/news/economy/who-owns-gallatin-county-the-bozeman-area-s-biggest-property/article_ac36b5ec-1e9c-5f87-b101-aa8cafc2adc4.html) by the Bozeman Daily Chronicle on Nov. 8, 2015.
 
 ## Tools used
 1. [Montana Cadastral parcel database](svc.mt.gov/msl/mtcadastral/) - State-maintained system that allows for both interactive exploration of property at the parcel level and downloading data on a county-by-county basis.
